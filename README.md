@@ -105,6 +105,9 @@ point_numbers=list(range(rw.num_points))
 plt.figure(figsize=(10,6))
 ```
 ## 运行结果
+
+使用编辑器来运行程序：
+
 ![第一次运行](Figure_1.png)
 ![第二次运行](Figure_2.png)
 ![选择是否继续](屏幕截图(79).png)
