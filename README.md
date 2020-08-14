@@ -108,6 +108,6 @@ plt.figure(figsize=(10,6))
 
 使用编辑器来运行程序：
 
-![第一次运行]([Figure_1.png](https://github.com/lahuan3369/MyPictures/blob/master/Figure_1.png))
+![第一次运行](https://github.com/lahuan3369/MyPictures/blob/master/Figure_1.png)
 ![第二次运行](https://github.com/lahuan3369/MyPictures/blob/master/Figure_2.png)
-![选择是否继续](https://github.com/lahuan3369/MyPictures/blob/master/README.md)
+![选择是否继续](https://github.com/lahuan3369/MyPictures/blob/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(79).png)
